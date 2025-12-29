@@ -6,3 +6,6 @@
 ## Disponibilizando banco de dados no Github
 - [Criando tabelas de Company](script_bd_company.sq)
 - [Inserindo dados das tabelas](insercao_de_dados_e_queries_sql.sql)
+
+## Conexão Azure e Power BI
+- powerbiservice.database.windows.net
